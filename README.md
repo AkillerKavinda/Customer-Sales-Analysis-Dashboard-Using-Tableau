@@ -13,7 +13,7 @@ This project presents a Tableau dashboard designed to analyze customer sales per
 
 ## Final Dashboard
 
-![Customer Sales Dashboard](Images/customer_sales_dashboard.png)
+![Customer Sales Dashboard](https://github.com/AkillerKavinda/Customer-Sales-Analysis-Dashboard-Using-Tableau/blob/main/Images/customer_sales_dashboard.png?raw=true)
 
 ## Dashboard Features
 
