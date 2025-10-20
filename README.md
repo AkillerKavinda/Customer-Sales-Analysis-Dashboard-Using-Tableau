@@ -49,4 +49,4 @@ This project presents a Tableau dashboard designed to analyze customer sales per
 
 Created by **Akila Kavinda Herath**  
 Inspired by this [YouTube video](https://www.youtube.com/watch?v=_qReGTOrKTk)  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/akila-kavinda-herath)!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/akila-herath-955473230/)!
